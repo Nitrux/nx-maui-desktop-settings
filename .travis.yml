@@ -9,7 +9,7 @@ script:
 
 branches:
   only:
-    - legacy
+    - main
 
 notifications:
   email: false
